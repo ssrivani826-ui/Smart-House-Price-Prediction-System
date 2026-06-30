@@ -1,19 +1,33 @@
-🏡 Smart House Price Prediction System
+# 🏡 Smart House Price Prediction System
 
-Smart House Price Prediction System is a Machine Learning-based web application developed using Python, Flask, SQLite, Bootstrap, and Chart.js. The application predicts house prices based on property details such as area, bedrooms, bathrooms, house age, property type, and location.
+The **Smart House Price Prediction System** is a full-stack Machine Learning web application designed to estimate residential property prices based on key property attributes, including area, number of bedrooms, bathrooms, house age, property type, and location.
 
-The system provides an interactive dashboard with price prediction, analytics charts, prediction history, location visualization, investment insights, and EMI calculation features. It is designed to help users understand property values and make informed real estate decisions.
+Built using **Python, Flask, Scikit-learn, SQLite, Bootstrap, Bootstrap Icons, and Chart.js**, the application combines predictive analytics with a modern, responsive user interface to deliver accurate price estimations and actionable real estate insights.
 
-Technologies Used:
-• Python
-• Flask
-• Scikit-learn
-• Pandas
-• SQLite
-• HTML/CSS
-• Bootstrap
-• JavaScript
-• Chart.js
-• OpenStreetMap
+## ✨ Key Features
 
-This project demonstrates the practical application of Machine Learning, Data Analysis, Database Management, and Full-Stack Web Development in the real estate domain.
+* 📈 Machine Learning-based house price prediction using property characteristics.
+* 📊 Interactive analytics dashboard with dynamic charts and visualizations.
+* 🗂️ Prediction history management using SQLite database.
+* 📍 Location-based property visualization with OpenStreetMap integration.
+* 💰 Investment insights and EMI calculator for affordability analysis.
+* 📱 Responsive, mobile-friendly interface built with Bootstrap and Bootstrap Icons.
+
+## 🛠️ Technologies Used
+
+* 🐍 Python
+* 🌐 Flask
+* 🤖 Scikit-learn
+* 🐼 Pandas
+* 🗄️ SQLite
+* 🎨 HTML5, CSS3
+* 🅱️ Bootstrap
+* ⭐ Bootstrap Icons
+* ⚡ JavaScript
+* 📊 Chart.js
+* 🗺️ OpenStreetMap
+
+## 🚀 Project Highlights
+
+This project demonstrates the practical application of **Machine Learning**, **Data Analytics**, **Database Management**, and **Full-Stack Web Development** by delivering a comprehensive real estate price prediction platform. The system focuses on predictive modeling, data-driven decision-making, interactive visualizations, and an enhanced user experience through a modern and responsive design.
+
